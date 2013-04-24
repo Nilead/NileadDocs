@@ -1,7 +1,7 @@
 Nilead Documentation
 ====================
 
-`SyliusNilead <http://rubikin.com>`_ is the e-commerce solution for PHP, based on `framework Symfony2 <http://symfony.com>`_.
+`Nilead <http://rubikin.com>`_ is the e-commerce solution for PHP, based on `framework Symfony2 <http://symfony.com>`_.
 
 The Book
 --------
