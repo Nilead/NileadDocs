@@ -1,12 +1,12 @@
-Sylius Documentation
+Nilead Documentation
 ====================
 
-`Sylius <http://sylius.org>`_ is modern e-commerce solution for PHP, based on `framework Symfony2 <http://symfony.com>`_.
+`SyliusNilead <http://rubikin.com>`_ is the e-commerce solution for PHP, based on `framework Symfony2 <http://symfony.com>`_.
 
 The Book
 --------
 
-Developers guide to leveraging the flexibility of Sylius.
+Developers guide to leveraging the flexibility of Nilead.
 
 .. toctree::
    :hidden:
