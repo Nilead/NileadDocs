@@ -1,4 +1,4 @@
 * :doc:`/book/symfony`
 * :doc:`/book/introduction`
-* :doc:`/book/architecture`
+* :doc:`/book/pricing`
 * :doc:`/book/products`
