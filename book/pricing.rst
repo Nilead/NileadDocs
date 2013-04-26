@@ -1,6 +1,6 @@
-============
-Introduction
-============
+=======
+Pricing
+=======
 
 To give users ultimate flexibility in pricing, Nilead uses a concept called **Price Component**
 
