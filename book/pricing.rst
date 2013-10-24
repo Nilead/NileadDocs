@@ -21,6 +21,16 @@ Any object (a product, an order, or anything) can have one or many price compone
 A price component is associated with a specific price calculator.
 The main calculator can loop through the list of price components associated to the object to calculate the final price of the object. This way, it's super simple to handle almost any kind of pricing.
 
+Calculator
+==========
+
+All price(s) are calculated by the calculator(s) including Product Price, Discount Amount, Shipment Charge, Tax, ....
+
+Context
+-------
+
+The context used for calculating price. Context can be understood as a parameter bag which may contain current product/order/etc which the handler can use to calculate price.
+
 Product Pricing
 ===============
 A product has at least ONE variant and (on theory) can have unlimited number of variants. 
