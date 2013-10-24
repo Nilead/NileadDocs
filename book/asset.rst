@@ -38,6 +38,7 @@ Note
 =========
 
 - We STRONGLY discourage the use of inline css and javascript, only use them when it is absolutely necessary.
+- Assets with relative paths are expected to be found in your_theme_folder/public/.
 - You can either pass a string or an array of string to the first parameter of the 3 functions above
 - The **filters** and **options** paramters in the 3 functions above act exactly the same way with the **filters** and **options** parameters described in `Symfony document on asset management. <http://symfony.com/doc/current/cookbook/assetic/asset_management.html>`_
 - There is another parameter that can be passed into the 3 functions above. The 4th parameter is a boolean parameter (default to false) and when set to true will ask the Assetic Manager to ignore the duplication and load the assets being requested again even if they are already requested else where. Be very careful with this option.
@@ -52,5 +53,6 @@ To provide better support for images, we introduce a new twig function::
 Note
 =========
 
+- Assets with relative paths are expected to be found in your_theme_folder/public/.
 - You must pass a string or an array of string to the first parameter of the 3 functions above
 - The **filters** and **options** paramters in the 3 functions above act exactly the same way with the **filters** and **options** parameters described in `Symfony document on asset management. <http://symfony.com/doc/current/cookbook/assetic/asset_management.html>`_
